@@ -13,17 +13,20 @@ Work through the tasks below - don't worry if you don't finish. We're looking to
 - We'd like instructions on how to run your app locally.
 
 # Tasks
-## 1
+
+### 1
 Using a language and/or framework of your choosing, create a web application that accepts any url and returns the same shortened version every time. 
 
 For example: `https://www.pactcoffee.com -> localhost:3000/p4c7`
 
-## 2 
+---
+### 2 
 Modify your app to redirect from the shortened url to the original url.
 
 For example: `localhost:3000/g00g` redirects to `https://google.com`
 
-## 3
+---
+### 3
 Modify your app to store, for each url:
 
 - The number of times the page has been visited.
@@ -37,7 +40,8 @@ For example: Your database might look like:
 | 1  | 4  | `192.168.0.1` | ? |
 | 2  | 7  | `127.0.0.1, 192.168.0.1` | ? |
 
-## 4
+---
+### 4
 Modify your app to display the stats for each URL
 
 For example: When you visit `localhost:3000/g00g/stats` you see a page with the stats for the that shortened url.
@@ -48,7 +52,9 @@ For example: When you visit `localhost:3000/g00g/stats` you see a page with the 
 | **IP Addresses:** `127.0.0.1, 192.168.0.1` |
 | **Something useful:** 😸 |
 
-## 5
+
+---
+### 5
 Modify your interface to add client side validation that disables the creation of a shortened URL if the input is: 
 
 - Blank
@@ -66,8 +72,8 @@ For example:
 | ✅ | ❌ |
 | ... | ❌ |
 
-
-## 6
+---
+### 6
 Host your app somewhere* public that we can access. 
 
 For example: `myapp.myhost.com` 

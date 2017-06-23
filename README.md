@@ -1,7 +1,7 @@
 
 # URL Shortener
-We'd like you to create an app that shortens URLs and should take under two hours. 
-Work through the tasks below - don't worry if you don't finish. We're looking to see your understanding and approach to the technical problem. 
+We'd like you to create an app that shortens URLs. This test should take under two hours. 
+Work through the tasks below - don't worry if you don't finish. If you only get time to do the first task that's fine. If you have the time and fancy having a go at all of them, that's great too. We're looking to get an idea of your level and how you approach a technical problem. 
 
 **When finished, please send us a link to your app as well as the source code.**
 
@@ -78,4 +78,4 @@ Host your app somewhere* public that we can access.
 
 For example: `myapp.myhost.com` 
 
-_* Please don't spend any money to do this!_
+_* Please don't spend any money on this!_

@@ -21,6 +21,14 @@ Install dependencies
 ```
 $ Bundle install
 ```
+Create local database using PostgreSQL
+```
+$ psql
+$ \l
+$ CREATE DATABASE url_shortener_test;
+$ \q
+
+```
 
 
 ## User Stories

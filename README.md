@@ -3,11 +3,12 @@
 A web app that shortens URLs
 
 ## Set-up
-Chosen language: Ruby (version 2.4.1)
-Database: PostgreSQL
-ORM: DataMapper
+- Chosen language: Ruby (version 2.4.1)
+- Database: PostgreSQL
+- ORM: DataMapper
+- Test: RSpec, Capybara
 
-Host: Heroku
+- Public hosting: Heroku
 
 
 

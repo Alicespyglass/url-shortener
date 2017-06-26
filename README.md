@@ -19,7 +19,7 @@ $ git clone https://github.com/Alicespyglass/url-shortener.git
 ```
 Install dependencies
 ```
-Bundle install
+$ Bundle install
 ```
 
 
@@ -27,7 +27,8 @@ Bundle install
 ```
 1) As a User
 So that I can shorten URLs
-I would like a web application that accepts any url and returns the same shortened version every time
+I would like a web application that accepts any url
+and returns the same shortened version every time
 ```
 ```
 2) As a User

@@ -6,6 +6,7 @@ A web app that shortens URLs
 - Chosen language: Ruby (version 2.4.1)
 - Database: PostgreSQL
 - ORM: DataMapper
+- Web app framework: Sinatra
 - Test: RSpec, Capybara
 
 - Public hosting: Heroku

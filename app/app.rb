@@ -9,6 +9,11 @@ class URLShortener < Sinatra::Base
   end
 
   get '/links/new' do
-    erb : 'links/new'
+    erb :'links/new'
+  end
+
+  post '/links' do
+    Link.create(url: params[:url])
+    redirect '/links'
   end
 end

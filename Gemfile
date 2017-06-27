@@ -5,6 +5,7 @@ ruby '2.4.1'
 gem 'pg'
 gem 'data_mapper'
 gem 'dm-postgres-adapter'
+gem 'database_cleaner'
 gem 'sinatra'
 gem 'pry'
 

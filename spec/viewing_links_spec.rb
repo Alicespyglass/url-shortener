@@ -9,6 +9,7 @@ feature 'Viewing links' do
 
     within 'ul#links' do
       expect(page).to have_content('http://www.coffeelover.com')
+      expect(page).to have_content('localhost:3000/c4l7')
     end
   end
 end

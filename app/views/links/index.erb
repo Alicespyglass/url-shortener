@@ -1,0 +1,10 @@
+<h1> Links </h1>
+
+<ul id='links'>
+  <% @links.each do |link| %>
+    <li>
+      URL:   <%= link.url   %>
+      Shortened URL:   <%= link.shortened_url   %>
+    </li>
+  <% end %>
+</ul>
